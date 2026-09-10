@@ -116,7 +116,7 @@ python -m pip --version
 9. Install Jupyter
 Install Jupyter inside the virtual environment:
 
-python -m pip install jupyter
+python -m pip install -r requirements.txt
 
 This installs Jupyter Notebook and its required dependencies.
 
